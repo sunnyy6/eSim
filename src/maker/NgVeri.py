@@ -28,7 +28,7 @@
 
 
 # importing the files and libraries
-from PyQt5 import QtCore, QtWidgets
+from PyQt6 import QtCore, QtWidgets
 from . import Maker
 from . import ModelGeneration
 import os

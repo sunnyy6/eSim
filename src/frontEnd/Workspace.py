@@ -16,7 +16,7 @@
 #      REVISION: Sunday 13 December 2020
 # =========================================================================
 
-from PyQt5 import QtCore, QtGui, QtWidgets
+from PyQt6 import QtCore, QtGui, QtWidgets
 from configuration.Appconfig import Appconfig
 import time
 import os

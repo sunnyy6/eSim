@@ -27,7 +27,7 @@ else:
     import pathmagic    # noqa:F401
     init_path = '../../'
 
-from PyQt5 import QtGui, QtCore, QtWidgets
+from PyQt6 import QtGui, QtCore, QtWidgets
 from configuration.Appconfig import Appconfig
 from projManagement.openProject import OpenProjectInfo
 from projManagement.newProject import NewProjectInfo
@@ -37,7 +37,7 @@ from projManagement import Worker
 from frontEnd import ProjectExplorer
 from frontEnd import Workspace
 from frontEnd import DockArea
-from PyQt5.Qt import QSize
+from PyQt6.QtCore import QSize
 import shutil
 import time
 import sys

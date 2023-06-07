@@ -20,7 +20,7 @@ import os
 from . import Validation
 from configuration.Appconfig import Appconfig
 from . import Worker
-from PyQt5 import QtWidgets
+from PyQt6 import QtWidgets
 
 
 class Kicad:

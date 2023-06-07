@@ -16,7 +16,7 @@
 #      REVISION: Sunday 16 August 2020
 # =========================================================================
 
-from PyQt5 import QtCore, QtWidgets
+from PyQt6 import QtCore, QtWidgets
 import subprocess
 from configuration.Appconfig import Appconfig
 

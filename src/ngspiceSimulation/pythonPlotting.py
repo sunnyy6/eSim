@@ -1,7 +1,7 @@
 from __future__ import division  # Used for decimal division
 # eg: 2/3=0.66 and not '0' 6/2=3.0 and 6//2=3
 import os
-from PyQt5 import QtGui, QtCore, QtWidgets
+from PyQt6 import QtGui, QtCore, QtWidgets
 from decimal import Decimal, getcontext
 from matplotlib.backends.backend_qt5agg\
     import FigureCanvasQTAgg as FigureCanvas

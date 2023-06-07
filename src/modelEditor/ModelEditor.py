@@ -1,5 +1,5 @@
-from PyQt5 import QtWidgets, QtCore
-from PyQt5.Qt import QTableWidgetItem
+from PyQt6 import QtWidgets, QtCore
+from PyQt6.QtWidgets import QTableWidgetItem
 import xml.etree.ElementTree as ET
 from configuration.Appconfig import Appconfig
 import os

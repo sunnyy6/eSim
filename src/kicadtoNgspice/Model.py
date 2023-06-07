@@ -4,7 +4,7 @@ import os
 from configparser import ConfigParser
 from xml.etree import ElementTree as ET
 
-from PyQt5 import QtWidgets, QtCore
+from PyQt6 import QtWidgets, QtCore
 
 from . import TrackWidget
 

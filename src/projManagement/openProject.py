@@ -16,7 +16,7 @@
 #      REVISION: Sunday 26 July 2020
 # =========================================================================
 
-from PyQt5 import QtWidgets, QtCore
+from PyQt6 import QtWidgets, QtCore
 from .Validation import Validation
 from configuration.Appconfig import Appconfig
 import os

@@ -31,7 +31,7 @@ from . import Appconfig
 import re
 import os
 import xml.etree.cElementTree as ET
-from PyQt5 import QtWidgets
+from PyQt6 import QtWidgets
 
 # beginning the AutoSchematic Class
 

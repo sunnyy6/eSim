@@ -30,7 +30,7 @@
 # importing the files and libraries
 import re
 import os
-from PyQt5 import QtCore, QtWidgets
+from PyQt6 import QtCore, QtWidgets
 from configparser import ConfigParser
 from configuration import Appconfig
 from . import createkicad

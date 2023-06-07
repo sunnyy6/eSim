@@ -1,4 +1,4 @@
-from PyQt5 import QtWidgets, QtCore
+from PyQt6 import QtWidgets, QtCore
 import os
 from xml.etree import ElementTree as ET
 from . import TrackWidget

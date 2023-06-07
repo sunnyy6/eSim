@@ -1,4 +1,4 @@
-from PyQt5 import QtWidgets, QtCore
+from PyQt6 import QtWidgets, QtCore
 from configuration.Appconfig import Appconfig
 from projManagement.Validation import Validation
 import os

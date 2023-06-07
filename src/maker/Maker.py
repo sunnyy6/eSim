@@ -28,8 +28,8 @@
 
 # importing the files and libraries
 import hdlparse.verilog_parser as vlog
-from PyQt5 import QtCore, QtWidgets
-from PyQt5.QtCore import QThread
+from PyQt6 import QtCore, QtWidgets
+from PyQt6.QtCore import QThread
 from configuration.Appconfig import Appconfig
 import os
 import watchdog.events
